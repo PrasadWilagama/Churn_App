@@ -3,6 +3,8 @@ import pandas as pd
 import pickle
 import base64
 import matplotlib.pyplot as plt
+import seaborn as sns
+
 
 
 # Load the trained model
